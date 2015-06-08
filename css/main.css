@@ -5,7 +5,7 @@
 /*increases the height of the navbar*/
 .navbar {
 	height: 75px;
-	background-color: #FF8A80;
+	background-color: #8BC34A;
 	box-shadow: 0 2px 5px rgba(0,0,0,0.26);
 }
 
@@ -27,7 +27,7 @@
 
 /*vertically centers the links, changes link font and color*/
 .navbar .nav > li > a {
-	color: #FF8A80;
+	color: #8BC34A;
 	font-family: "Lato", "Helvetica", "Arial", sans-serif;
 	font-size: 18px;
 	font-weight: 300;
@@ -79,7 +79,7 @@ ul.nav.navbar-nav {
 
 /*color and font for main site title*/
 .navbar-inverse .navbar-brand {
-	color: #FF8A80;
+	color: #8BC34A;
 	font-family: "Lato", "Helvetica", "Arial", sans-serif;
 	font-size: 40px;
 	font-weight: 300;
@@ -87,7 +87,7 @@ ul.nav.navbar-nav {
 }
 
 .navbar-inverse .navbar-brand:hover {
-	color: #FF8A80;
+	color: #8BC34A;
 }
 
 
@@ -115,7 +115,7 @@ ul.nav.navbar-nav {
 	.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
 		background-color: transparent;
 		text-decoration: underline;
-		color: #FF8A80;
+		color: #8BC34A;
 	}
 }
 
@@ -133,7 +133,7 @@ ul.nav.navbar-nav {
 /*mobile links*/
 @media (max-width: 768px) {
 	.navbar .nav > li > a {
-		color: #FF8A80;
+		color: #8BC34A;
 		font-size: 14px;
 		letter-spacing: 1px;
 		line-height: 22px;
@@ -141,7 +141,7 @@ ul.nav.navbar-nav {
 	}
 
 	.navbar .nav > li > a:hover {
-		color: #FF8A80;
+		color: #8BC34A;
 	}
 }
 
@@ -241,7 +241,7 @@ button.navbar-toggle:hover {
 /*header text desktop*/
 @media (min-width: 769px) {
 	h1 {
-		color: #E57373;
+		color: #7CB342;
 		font-family: "Lato", "Helvetica", "Arial", sans-serif;
 		font-size: 30px;
 		font-weight: 300;
@@ -255,7 +255,7 @@ button.navbar-toggle:hover {
 /*header text mobile*/
 @media (max-width: 768px) {
 	h1 {
-		color: #E57373;
+		color: #7CB342;
 		font-family: "Lato", "Helvetica", "Arial", sans-serif;
 		font-size: 20px;
 		font-weight: 300;
@@ -311,9 +311,9 @@ button.navbar-toggle:hover {
 }
 
 .btn {
-	color: #E57373;
-	border: 1px solid #E57373;
-	background-color: #FFEBEE;
+	color: #7CB342;
+	border: 1px solid #7CB342;
+	background-color: #F1F8E9;
 	font-family: "Lato", "Helvetica", "Arial", sans-serif;
 	font-size: 20px;
 	font-weight: 300;
@@ -322,7 +322,7 @@ button.navbar-toggle:hover {
 }
 
 .btn-default:hover {
-	background-color: #FFEBEE;
+	background-color: #F1F8E9;
 	color: #ef8a6e;
 	font-family: "Lato", "Helvetica", "Arial", sans-serif;
 	font-size: 20px;
@@ -334,13 +334,13 @@ button.navbar-toggle:hover {
 
 /*link with light color background*/
 a.lightBG {
-	color: #E57373;
-	background-color: #FFEBEE;
+	color: #7CB342;
+	background-color: #F1F8E9;
 	padding: 2px 5px 2px 5px;
 }
 
 a.lightBG:hover {
-	color: #E57373;
+	color: #7CB342;
 	text-decoration: none;
 }	
 
